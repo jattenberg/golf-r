@@ -7,6 +7,9 @@
 - Black Whispbars
 - Xpel Clear Bra
 - Ceramic Coat
+- Aspherical Euro Mirrors
+- Inno Wedge 624 Roof Box
+- OEM Euro Skid Plate
 
 ## Interior
 - Euro Rear Head Rests
@@ -18,11 +21,29 @@
 
 ## Electronics
 - OBDEleven
-- Aukey Flush Fit Cigrette Lighter USB adapter
+- Aukey Flush Fit Cigrette Lighter USB adapter, Amazon black cables
+- Redenso Pro M Radar Detector
 
-
-## To Be Installed
+## Suspension / Brakes
 - RS3 Brake Ducts
+- ECS 10mm Spacers
+- VWR Springs
+- H&R Front & Rear Sway Bars
 - Eurocode ÜSS Tunnel Brace
-- JB4 w/ Bluetooth
-- OEM Skid Pad
+
+## Engine / Intake / Exhaust
+- ACR Catted Downpipe
+- Revo Combined Turbo Inlet Hose
+- Wagner Intercooler
+- Milltek Valved/Resonated Exhaust
+- VWR 600 Intake
+- JB4 w/ Bluetooth & Aluminum Case
+- Integrated Engineering Turbo Muffler Delete
+- `twist` air scoop
+
+## Drivetrain
+- UM Haldex Tune
+- ECS Exact-Fit Stainless Steel Clutch Hose Kit
+- ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit
+- ECS Front to Back and Side to Side weighted short shifter
+- ECS Clutch pedal stop
