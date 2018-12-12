@@ -10,6 +10,7 @@
 - Aspherical Euro Mirrors
 - Inno Wedge 624 Roof Box
 - OEM Euro Skid Plate
+- Dynablink side markers
 
 ## Interior
 - Euro Rear Head Rests
