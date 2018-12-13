@@ -46,7 +46,6 @@
 - UM Haldex Tune
 - ECS Exact-Fit Stainless Steel Clutch Hose Kit
 - ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit
-- ECS Front to Back and Side to Side weighted short shifter
 - ECS Clutch pedal stop
 - [WCT Pedal Spacer](http://wctperformance.com/wct-performance-pedal-spacer-for-mk7-7-5-golf-gti-r/)
 
