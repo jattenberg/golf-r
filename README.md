@@ -48,3 +48,9 @@
 - ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit
 - ECS Front to Back and Side to Side weighted short shifter
 - ECS Clutch pedal stop
+
+
+## To Install
+- [Precision Raceworks MK7 EA888 gen 3 port injection kit](http://www.precisionraceworks.com/index.php?route=product/product&path=20_61&product_id=87)
+- [Precision Racework Stage 4 Fuel Pump](www.precisionraceworks.com/index.php?route=product/product&path=20_61&product_id=88)
+- [EQT Vortex Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
