@@ -34,12 +34,12 @@
 
 ## Engine / Intake / Exhaust
 - ACR Catted Downpipe
-- Revo Combined Turbo Inlet Hose
-- Wagner Intercooler
+- [Revo Combined Turbo Inlet Hose](https://funktionperformance.com/product/revo-2-0-tsi-turbo-inlet-hose/)
+- [Wagner Intercooler](http://www.wagner-tuning.com/product/vw/vw-arteon/competition-ladeluftkuehler-kit-vag-18-20tsi-200001048-10.html)
 - Milltek Valved/Resonated Exhaust
-- VWR 600 Intake
+- [VWR 600 Intake](https://www.uspmotorsports.com/VWR12G7R600-4641.html)
 - JB4 w/ Bluetooth & Aluminum Case
-- Integrated Engineering Turbo Muffler Delete
+- [Integrated Engineering Turbo Muffler Delete](https://www.performancebyie.com/ie-turbo-muffler-delete)
 - `twist` air scoop
 
 ## Drivetrain
