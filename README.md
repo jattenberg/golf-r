@@ -38,7 +38,7 @@
 - [Wagner Intercooler](http://www.wagner-tuning.com/product/vw/vw-arteon/competition-ladeluftkuehler-kit-vag-18-20tsi-200001048-10.html)
 - Milltek Valved/Resonated Exhaust
 - [VWR 600 Intake](https://www.uspmotorsports.com/VWR12G7R600-4641.html)
-- JB4 w/ Bluetooth & Aluminum Case
+- [JB4 w/ Bluetooth & Aluminum Case](http://www.burgertuning.com/vw_volkswagen_Group1_JB1_tuner.html)
 - [Integrated Engineering Turbo Muffler Delete](https://www.performancebyie.com/ie-turbo-muffler-delete)
 - `twist` air scoop
 
