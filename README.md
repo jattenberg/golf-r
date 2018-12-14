@@ -31,6 +31,7 @@
 - VWR Springs
 - H&R Front & Rear Sway Bars
 - Eurocode ÜSS Tunnel Brace
+- [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 
 ## Engine / Intake / Exhaust
 - ACR Catted Downpipe
