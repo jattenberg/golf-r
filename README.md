@@ -56,3 +56,4 @@
 - [Precision Racework Stage 4 Fuel Pump](www.precisionraceworks.com/index.php?route=product/product&path=20_61&product_id=88)
 - [EQT Vortex Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
 - [ECS Front to Back and Side to Side Short Shifter](https://www.ecstuning.com/b-ecs-parts/adjustable-short-shifter-kit/017694ecs01-01kt/)
+- [iabed rear main seal](https://www.ecstuning.com/b-iabed-industries-parts/billet-aluminum-rear-main-seal-upgrade/462-103-171f~iab/)
