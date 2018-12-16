@@ -6,7 +6,7 @@
 - `vw671` License Plate Mount
 - Black Whispbars
 - Xpel Clear Bra
-- Ceramic Coat
+- Opti-Coat Pro
 - Aspherical Euro Mirrors
 - Inno Wedge 624 Roof Box
 - OEM Euro Skid Plate
