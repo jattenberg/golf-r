@@ -41,7 +41,6 @@
 - [VWR 600 Intake](https://www.uspmotorsports.com/VWR12G7R600-4641.html)
 - [JB4 w/ Bluetooth & Aluminum Case](http://www.burgertuning.com/vw_volkswagen_Group1_JB1_tuner.html)
 - [Integrated Engineering Turbo Muffler Delete](https://www.performancebyie.com/ie-turbo-muffler-delete)
-- `twist` air scoop
 
 ## Drivetrain
 - UM Haldex Tune
@@ -58,3 +57,4 @@
 - [ECS Front to Back and Side to Side Short Shifter](https://www.ecstuning.com/b-ecs-parts/adjustable-short-shifter-kit/017694ecs01-01kt/)
 - [iabed rear main seal](https://www.ecstuning.com/b-iabed-industries-parts/billet-aluminum-rear-main-seal-upgrade/462-103-171f~iab/)
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
+- [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
