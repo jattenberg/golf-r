@@ -58,3 +58,6 @@
 - [iabed rear main seal](https://www.ecstuning.com/b-iabed-industries-parts/billet-aluminum-rear-main-seal-upgrade/462-103-171f~iab/)
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
+- [42 Draft Designs VW/Audi Brass Shifter Relay Lever Bushings](http://www.42draftdesigns.com/vw-audi-brass-shifter-relay-lever-bushings/)
+- [42 Draft Designs VW Shifter Bushing Set - Mk5 6S MY07](http://www.42draftdesigns.com/vw-shifter-bushing-set-mk5-6s-my07/)
+- [Integrated Engineering Solid Cable Shifter Bracket](https://www.performancebyie.com/solid-shifter-bracket)
