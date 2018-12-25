@@ -62,3 +62,5 @@
 - [42 Draft Designs VW Shifter Bushing Set - Mk5 6S MY07](http://www.42draftdesigns.com/vw-shifter-bushing-set-mk5-6s-my07/)
 - [Integrated Engineering Solid Cable Shifter Bracket](https://www.performancebyie.com/solid-shifter-bracket)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
+- [RS-3 Igition Coils](https://www.uspmotorsports.com/Audi-RS3-Upgrade-Coil-Pack-Kit-for-MQB-Set-of-4.html)
+- [RS-7 NKG Spark Plugs](https://www.uspmotorsports.com/RS7-Spark-Plug-set-of-4.html)
