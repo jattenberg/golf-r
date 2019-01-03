@@ -11,6 +11,7 @@
 - Inno Wedge 624 Roof Box
 - OEM Euro Skid Plate
 - Dynablink side markers
+- Audi jack points
 
 ## Interior
 - Euro Rear Head Rests
