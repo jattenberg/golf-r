@@ -66,3 +66,4 @@
 - [RS-3 Igition Coils](https://www.uspmotorsports.com/Audi-RS3-Upgrade-Coil-Pack-Kit-for-MQB-Set-of-4.html)
 - [RS-7 NKG Spark Plugs](https://www.uspmotorsports.com/RS7-Spark-Plug-set-of-4.html)
 - [DKM Stage 3 Clutch](https://www.ecstuning.com/b-dkm-parts/stage-3-performance-twin-disc-clutch-kit/ms-034-060~dkm/)
+- [Fluidampr](https://www.uspmotorsports.com/Fluidampr-Engine-Damper-2.0TSI.html)
