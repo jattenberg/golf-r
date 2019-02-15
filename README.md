@@ -67,3 +67,4 @@
 - [RS-7 NKG Spark Plugs](https://www.uspmotorsports.com/RS7-Spark-Plug-set-of-4.html)
 - [DKM Stage 3 Clutch](https://www.ecstuning.com/b-dkm-parts/stage-3-performance-twin-disc-clutch-kit/ms-034-060~dkm/)
 - [Fluidampr](https://www.uspmotorsports.com/Fluidampr-Engine-Damper-2.0TSI.html)
+- [Dieselgeek Super Pin](https://www.dieselgeek.com/products/super-pin-for-mk7)
