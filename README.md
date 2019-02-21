@@ -20,6 +20,7 @@
 - Alcantara Arm Rest
 - `southpawboston` Glove Box OBDEleven Holder
 - ibuddy rear seat dog cover
+- VW Warning Triangle
 
 ## Electronics
 - OBDEleven
