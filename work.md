@@ -16,4 +16,4 @@
 - re-mount Eurocode USS tunnel brace
 - direct wire radar detector
 - heat wrap on downpipe
-- ECS short shifter (for additional weight)
+- ECS short shifter, stock throw length (for additional weight)
