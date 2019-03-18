@@ -1,0 +1,17 @@
+- EQT turbo
+- UM big turbo tune
+- Precision Raceworks LPFP
+- Precision Raceworks MPI kit
+- UM MPI tune
+- UM launch control
+- P3 boost gauge / boost tap
+- RS3 Ignition Coils
+- Denso Spark Plugs
+- Fluidampr
+- dieselgeek superpin
+- DKM Stage 3 Clutch
+- iabed rear main seal
+- IE Shifter Bracket
+- 42 Draft Designs Bushings
+- re-mount Eurocode USS tunnel brace
+- direct wire radar detector
