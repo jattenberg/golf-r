@@ -3,7 +3,8 @@
 - Precision Raceworks LPFP
 - Precision Raceworks MPI kit
 - UM MPI tune
-- UM launch control
+- UM flex fuel kit
+- UM launch control/NLS
 - P3 boost gauge / boost tap
 - RS3 Ignition Coils
 - Denso Spark Plugs
