@@ -18,3 +18,4 @@
 - direct wire radar detector
 - heat wrap on downpipe
 - ECS short shifter, stock throw length (for additional weight)
+- oil change / etc
