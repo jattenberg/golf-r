@@ -56,7 +56,7 @@
 - [ECS Front to Back and Side to Side Short Shifter](https://www.ecstuning.com/b-ecs-parts/adjustable-short-shifter-kit/017694ecs01-01kt/)
 - [iabed rear main seal](https://www.ecstuning.com/b-iabed-industries-parts/billet-aluminum-rear-main-seal-upgrade/462-103-171f~iab/)
 - [42 Draft Designs VW/Audi Brass Shifter Relay Lever Bushings](http://www.42draftdesigns.com/vw-audi-brass-shifter-relay-lever-bushings/)
-- [42 Draft Designs VW Shifter Bushing Set - Mk5 6S MY07](http://www.42draftdesigns.com/vw-shifter-bushing-set-mk5-6s-my07/)
+- [42 Draft Designs VW Shifter Bushing Set - Mk7 6S MY15+](http://www.42draftdesigns.com/vw-shifter-bushing-set-mk7-6s-my15/)
 - [Integrated Engineering Solid Cable Shifter Bracket](https://www.performancebyie.com/solid-shifter-bracket)
 - UM Haldex Tune
 - ECS Exact-Fit Stainless Steel Clutch Hose Kit
