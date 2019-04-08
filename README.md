@@ -23,6 +23,7 @@
 - VW Warning Triangle
 
 ## Electronics
+- [P3 Multi Gague](http://www.p3cars.com/volkswagen/vw-golf-gti-rabbit/vw-mk7-p3-obd2-multi-gauge/)
 - OBDEleven
 - Aukey Flush Fit Cigrette Lighter USB adapter, Amazon black cables
 - Redenso Pro M Radar Detector
