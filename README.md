@@ -39,7 +39,7 @@
 ## Engine / Intake / Exhaust
 - [EQT Vortex Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
 - [Precision Raceworks MK7 EA888 gen 3 port injection kit](http://www.precisionraceworks.com/index.php?route=product/product&path=20_61&product_id=87)
-- [Precision Racework Stage 4 Fuel Pump](www.precisionraceworks.com/index.php?route=product/product&path=20_61&product_id=88)
+- [Precision Racework Stage 4 Fuel Pump](http://www.precisionraceworks.com/index.php?route=product/product&product_id=88)
 - [RS-3 Igition Coils](https://www.uspmotorsports.com/Audi-RS3-Upgrade-Coil-Pack-Kit-for-MQB-Set-of-4.html)
 - [RS-7 NKG Spark Plugs](https://www.uspmotorsports.com/RS7-Spark-Plug-set-of-4.html)
 - [APR Catted Downpipe](https://www.goapr.com/products/apr_exhaust_cast_race_dp_20t_mqb_awd.html)
