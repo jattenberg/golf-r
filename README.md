@@ -49,6 +49,8 @@
 - [VWR 600 Intake](https://www.uspmotorsports.com/VWR12G7R600-4641.html)
 - [JB4 w/ Bluetooth & Aluminum Case](http://www.burgertuning.com/vw_volkswagen_Group1_JB1_tuner.html)
 - [Integrated Engineering Turbo Muffler Delete](https://www.performancebyie.com/ie-turbo-muffler-delete)
+- United Motorsports Big Turbo Tune
+- United Motorsports E85 Flex-fuel kit 
 
 ## Drivetrain
 - [DKM Stage 3 Clutch](https://www.ecstuning.com/b-dkm-parts/stage-3-performance-twin-disc-clutch-kit/ms-034-060~dkm/)
