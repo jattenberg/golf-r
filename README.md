@@ -69,6 +69,12 @@
 
 
 ## To Install
+- [CTS Turbo MQB BOSS 600](https://www.moddedeuros.com/products/cts-turbo-mqb-boss-600-turbo-upgrade-15-17-a3-s3-gti-golf-r)
+- [Eurocode 8V/MK7 MQB Front / Rear Chassis Brace](https://www.ecodetuning.com/EC0111-0301-eurocode-8v-mk7-mqb-front-rear-chassis-brace.html#product-details-tab-fitment)
+- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
+- [iSWEEP Center Floor Power Brace Rear 3 Pieces](iSWEEP Center Floor Power Brace Rear 3 Pieces)
+- [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
+- [URO Tuning Flush Kit](https://www.urotuning.com/products/mk7-golf-r-19-flush-kit-full-set-of-hubcentric-wheel-spacers?variant=12918800482359)
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
