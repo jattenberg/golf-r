@@ -33,7 +33,6 @@
 - ECS 10mm Spacers
 - VWR Springs
 - H&R Front & Rear Sway Bars
-- Eurocode ÜSS Tunnel Brace
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 
 ## Engine / Intake / Exhaust
@@ -79,3 +78,5 @@
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
 
+## Formerly
+- [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
