@@ -60,9 +60,9 @@
 - [42 Draft Designs VW Shifter Bushing Set - Mk7 6S MY15+](http://www.42draftdesigns.com/vw-shifter-bushing-set-mk7-6s-my15/)
 - [Integrated Engineering Solid Cable Shifter Bracket](https://www.performancebyie.com/solid-shifter-bracket)
 - UM Haldex Tune
-- ECS Exact-Fit Stainless Steel Clutch Hose Kit
-- ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit
-- ECS Clutch pedal stop
+- [ECS Exact-Fit Stainless Steel Clutch Hose Kit](https://www.ecstuning.com/b-ecs-parts/exact-fit-stainless-steel-clutch-hose/006719ecs01~a/)
+- [ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit](https://www.ecstuning.com/b-ecs-parts/6-speed-clutch-bleeder-block/001284ecs01kt/)
+- [ECS Clutch pedal stop](https://www.ecstuning.com/b-ecs-parts/adjustable-clutch-pedal-stop/018733ecs01~a/)
 - [WCT Pedal Spacer](http://wctperformance.com/wct-performance-pedal-spacer-for-mk7-7-5-golf-gti-r/)
 
 
