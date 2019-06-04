@@ -76,6 +76,7 @@
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
+- HRE FFE15 Powder coated custom bronze
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
