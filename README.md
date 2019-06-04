@@ -31,7 +31,7 @@
 ## Suspension / Brakes
 - RS3 Brake Ducts
 - ECS 10mm Spacers
-- VWR Springs
+- [Racingline Sports Spring Kit](https://www.ecodetuning.com/vwr-sports-spring-kit-golf-r-jetta-gli-skoda-octavia.html)
 - [H&R Front & Rear Sway Bars](https://www.ecstuning.com/b-h-and-r-parts/front-rear-sway-bar-kit/72340~hr/)
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 
