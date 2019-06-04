@@ -80,4 +80,3 @@
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
-- [JB4 w/ Bluetooth & Aluminum Case](http://www.burgertuning.com/vw_volkswagen_Group1_JB1_tuner.html)
