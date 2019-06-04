@@ -32,7 +32,7 @@
 - RS3 Brake Ducts
 - ECS 10mm Spacers
 - VWR Springs
-- H&R Front & Rear Sway Bars
+- [H&R Front & Rear Sway Bars](https://www.ecstuning.com/b-h-and-r-parts/front-rear-sway-bar-kit/72340~hr/)
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 
 ## Engine / Intake / Exhaust
