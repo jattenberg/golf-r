@@ -73,7 +73,6 @@
 - [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
 - [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
 - [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
-- [URO Tuning Flush Kit](https://www.urotuning.com/products/mk7-golf-r-19-flush-kit-full-set-of-hubcentric-wheel-spacers?variant=12918800482359)
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
