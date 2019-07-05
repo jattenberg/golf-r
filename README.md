@@ -30,10 +30,11 @@
 
 ## Suspension / Brakes
 - RS3 Brake Ducts
-- ECS 10mm Spacers
+- [UroTuning Flush Kit](https://www.urotuning.com/products/mk7-gti-flush-kit-full-set-of-hubcentric-wheel-spacers?variant=13403447033911) (10mm Dront, 15mm Rear Spacers)
 - [Racingline Sports Spring Kit](https://www.ecodetuning.com/vwr-sports-spring-kit-golf-r-jetta-gli-skoda-octavia.html)
 - [H&R Front & Rear Sway Bars](https://www.ecstuning.com/b-h-and-r-parts/front-rear-sway-bar-kit/72340~hr/)
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
+- HRE FFE15 Powder coated custom bronze
 
 ## Engine / Intake / Exhaust
 - [EQT Vortex Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
@@ -76,7 +77,6 @@
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
-- HRE FFE15 Powder coated custom bronze
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
