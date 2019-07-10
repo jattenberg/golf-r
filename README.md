@@ -35,9 +35,13 @@
 - [H&R Front & Rear Sway Bars](https://www.ecstuning.com/b-h-and-r-parts/front-rear-sway-bar-kit/72340~hr/)
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 - HRE FFE15 Powder coated custom bronze
+- [Eurocode 8V/MK7 MQB Front / Rear Chassis Brace](https://www.ecodetuning.com/EC0111-0301-eurocode-8v-mk7-mqb-front-rear-chassis-brace.html#product-details-tab-fitment)
+- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
+- [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
+- [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
 
 ## Engine / Intake / Exhaust
-- [EQT Vortex Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
+- [CTS Turbo MQB BOSS 600](https://www.moddedeuros.com/products/cts-turbo-mqb-boss-600-turbo-upgrade-15-17-a3-s3-gti-golf-r)
 - [Precision Raceworks MK7 EA888 gen 3 port injection kit](http://www.precisionraceworks.com/index.php?route=product/product&path=20_61&product_id=87)
 - [Precision Racework Stage 4 Fuel Pump](http://www.precisionraceworks.com/index.php?route=product/product&product_id=88)
 - [RS-3 Igition Coils](https://www.uspmotorsports.com/Audi-RS3-Upgrade-Coil-Pack-Kit-for-MQB-Set-of-4.html)
@@ -68,14 +72,10 @@
 
 
 ## To Install
-- [CTS Turbo MQB BOSS 600](https://www.moddedeuros.com/products/cts-turbo-mqb-boss-600-turbo-upgrade-15-17-a3-s3-gti-golf-r)
-- [Eurocode 8V/MK7 MQB Front / Rear Chassis Brace](https://www.ecodetuning.com/EC0111-0301-eurocode-8v-mk7-mqb-front-rear-chassis-brace.html#product-details-tab-fitment)
-- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
-- [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
-- [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
-- [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
+- [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
+- [EQT Vortex XL Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
