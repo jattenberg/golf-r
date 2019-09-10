@@ -48,7 +48,6 @@
 - [RS-3 Igition Coils](https://www.uspmotorsports.com/Audi-RS3-Upgrade-Coil-Pack-Kit-for-MQB-Set-of-4.html)
 - [RS-7 NKG Spark Plugs](https://www.uspmotorsports.com/RS7-Spark-Plug-set-of-4.html)
 - [APR Catted Downpipe](https://www.goapr.com/products/apr_exhaust_cast_race_dp_20t_mqb_awd.html)
-- [Revo Combined Turbo Inlet Hose](https://funktionperformance.com/product/revo-2-0-tsi-turbo-inlet-hose/)
 - [Wagner Intercooler](http://www.wagner-tuning.com/product/vw/vw-arteon/competition-ladeluftkuehler-kit-vag-18-20tsi-200001048-10.html)
 - Milltek Valved/Resonated Exhaust
 - [VWR 600 Intake](https://www.uspmotorsports.com/VWR12G7R600-4641.html)
@@ -87,3 +86,4 @@
 
 ## For Later
 - [EQT Vortex XL Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
+- [Revo Combined Turbo Inlet Hose](https://funktionperformance.com/product/revo-2-0-tsi-turbo-inlet-hose/)
