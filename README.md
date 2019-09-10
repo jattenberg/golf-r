@@ -12,6 +12,7 @@
 - OEM Euro Skid Plate
 - Dynablink side markers
 - Audi jack points
+- [Rear Bumper Reflector Film Set - Gunsmoke](https://www.ecstuning.com/b-ecs-parts/rear-bumper-reflector-film-set-gunsmoke-vw-mk75-mkvii-facelift-gti-golf-r/026097ecs01~a/)
 
 ## Interior
 - Euro Rear Head Rests
@@ -79,6 +80,7 @@
 - [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
 - [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
 - [Wavetrac Front LSD](https://www.shopdap.com/mk5-mk6-mk7-wavetrac-diff-6speed-manual.html)
+- [Rear Differential Mount Insert Kit (3 Inserts) - Front And Rear Positions](https://www.ecstuning.com/b-ecs-parts/complete-rear-differential-mount-insert-kit-3-inserts-front-and-rear-positions/019797ecs01kt/)
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
