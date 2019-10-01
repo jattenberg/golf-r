@@ -39,7 +39,6 @@
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 - HRE FFE15 Powder coated custom bronze
 - [Eurocode 8V/MK7 MQB Front / Rear Chassis Brace](https://www.ecodetuning.com/EC0111-0301-eurocode-8v-mk7-mqb-front-rear-chassis-brace.html#product-details-tab-fitment)
-- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
 - [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
 - [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
 
@@ -83,6 +82,7 @@
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
+- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
 
 ## For Later
 - [EQT Vortex XL Turbo](https://eqtuning.com/products/eqt-vortex-turbocharger)
