@@ -39,6 +39,9 @@
 - [Tyrolsport Deadset kit](http://www.tyrolsport.com/suspension/chassis/tyrolsport-deadset-rigid-subframe-kit-for-mk7/mqb/a3/s3/)
 - HRE FFE15 Powder coated custom bronze
 - [Eurocode 8V/MK7 MQB Front / Rear Chassis Brace](https://www.ecodetuning.com/EC0111-0301-eurocode-8v-mk7-mqb-front-rear-chassis-brace.html#product-details-tab-fitment)
+- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
+- [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
+- [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
 
 ## Engine / Intake / Exhaust
 - [CTS Turbo MQB BOSS 600](https://www.moddedeuros.com/products/cts-turbo-mqb-boss-600-turbo-upgrade-15-17-a3-s3-gti-golf-r)
@@ -75,9 +78,6 @@
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
-- [iSWEEP Center Floor Power Brace](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Front-For-VW-GOLF-MK7-GTI_p_2077.html)
-- [iSWEEP Center Floor Power Brace Rear 3 Pieces](http://isweep-tuning.com/iSWEEP-Center-Floor-Power-Brace-Rear-3-Pieces-For-VW-GOLF-MK7-R_p_2085.html)
-- [iSWEEP Front Lower Bar - Mk7 VW](https://www.urotuning.com/products/isweep-front-lower-bar-mk7-vw?variant=13544117010487)
 - [Wavetrac Front LSD](https://www.shopdap.com/mk5-mk6-mk7-wavetrac-diff-6speed-manual.html)
 - [Rear Differential Mount Insert Kit (3 Inserts) - Front And Rear Positions](https://www.ecstuning.com/b-ecs-parts/complete-rear-differential-mount-insert-kit-3-inserts-front-and-rear-positions/019797ecs01kt/)
 
