@@ -15,6 +15,7 @@
 - [Rear Bumper Reflector Film Set - Gunsmoke](https://www.ecstuning.com/b-ecs-parts/rear-bumper-reflector-film-set-gunsmoke-vw-mk75-mkvii-facelift-gti-golf-r/026097ecs01~a/)
 
 ## Interior
+- [Rennline Golf R pedals](http://www.rennline.com/Rennline-Aluminum-Pedal-Set-4-piece-Rubber-Grip-VW/productinfo/P75.60.93V/)
 - Euro Rear Head Rests
 - Ebay Center Console Organizer
 - Black Forest Industries Heavy Weight Shift Knob (with black extension)
@@ -58,6 +59,11 @@
 - United Motorsports E85 Pro-Flex kit 
 
 ## Drivetrain
+- RS3 Rear Differential / Haldex
+- [Custom Rear Wavetrac LSD](https://www.powerzone.at/hinterachs-sperrdifferential/)
+- [Wavetrac Front LSD](https://www.shopdap.com/mk5-mk6-mk7-wavetrac-diff-6speed-manual.html)
+- [Rear Differential Mount Insert Kit (3 Inserts) - Front And Rear Positions](https://www.ecstuning.com/b-ecs-parts/complete-rear-differential-mount-insert-kit-3-inserts-front-and-rear-positions/019797ecs01kt/)
+- UM Haldex Tune
 - [DKM Stage 3 Clutch](https://www.ecstuning.com/b-dkm-parts/stage-3-performance-twin-disc-clutch-kit/ms-034-060~dkm/)
 - [Fluidampr](https://www.uspmotorsports.com/Fluidampr-Engine-Damper-2.0TSI.html)
 - [Dieselgeek Super Pin](https://www.dieselgeek.com/products/super-pin-for-mk7)
@@ -66,7 +72,6 @@
 - [42 Draft Designs VW/Audi Brass Shifter Relay Lever Bushings](http://www.42draftdesigns.com/vw-audi-brass-shifter-relay-lever-bushings/)
 - [42 Draft Designs VW Shifter Bushing Set - Mk7 6S MY15+](http://www.42draftdesigns.com/vw-shifter-bushing-set-mk7-6s-my15/)
 - [Integrated Engineering Solid Cable Shifter Bracket](https://www.performancebyie.com/solid-shifter-bracket)
-- UM Haldex Tune
 - [ECS Exact-Fit Stainless Steel Clutch Hose Kit](https://www.ecstuning.com/b-ecs-parts/exact-fit-stainless-steel-clutch-hose/006719ecs01~a/)
 - [ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit](https://www.ecstuning.com/b-ecs-parts/6-speed-clutch-bleeder-block/001284ecs01kt/)
 - [ECS Clutch pedal stop](https://www.ecstuning.com/b-ecs-parts/adjustable-clutch-pedal-stop/018733ecs01~a/)
@@ -77,8 +82,7 @@
 - [`twist` air scoop](https://www.golfmk7.com/forums/showthread.php?t=40807)
 - OEM [Left](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-left/1k0825271a/) and [Right](https://www.ecstuning.com/b-genuine-volkswagen-audi-parts/front-underbody-cover-right/1k0825272a/) Underbody Covers
 - [Forge Turbo Blanket](https://www.forgemotorsport.com/Forge_Motorsport_Turbo_Blanket--product--1491.html)
-- [Wavetrac Front LSD](https://www.shopdap.com/mk5-mk6-mk7-wavetrac-diff-6speed-manual.html)
-- [Rear Differential Mount Insert Kit (3 Inserts) - Front And Rear Positions](https://www.ecstuning.com/b-ecs-parts/complete-rear-differential-mount-insert-kit-3-inserts-front-and-rear-positions/019797ecs01kt/)
+
 
 ## For Sale
 - [Eurocode ÜSS Tunnel Brace](https://www.uspmotorsports.com/Eurocode-USS-MK7-GTI-Golf-Tunnel-Brace-Red.html)
