@@ -56,7 +56,9 @@
 - [VWR 600 Intake](https://www.uspmotorsports.com/VWR12G7R600-4641.html)
 - [Integrated Engineering Turbo Muffler Delete](https://www.performancebyie.com/ie-turbo-muffler-delete)
 - United Motorsports Big Turbo Tune
-- United Motorsports E85 Pro-Flex kit 
+- United Motorsports E85 Pro-Flex kit
+- Custom aluminum turbo inlet pipe
+- Skoda washer fluid cap
 
 ## Drivetrain
 - RS3 Rear Differential / Haldex / Axles
