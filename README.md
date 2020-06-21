@@ -59,6 +59,7 @@
 - United Motorsports E85 Pro-Flex kit
 - Custom aluminum turbo inlet pipe
 - Skoda washer fluid cap
+- [Racingline TSI Catch Can kit](https://www.shopdap.com/racinline-catch-can-mk7-gti.html)
 
 ## Drivetrain
 - RS3 Rear Differential / Haldex / Axles
@@ -78,6 +79,7 @@
 - [ECS Billet Aluminum 6-Speed Clutch Bleeder Block Kit](https://www.ecstuning.com/b-ecs-parts/6-speed-clutch-bleeder-block/001284ecs01kt/)
 - [ECS Clutch pedal stop](https://www.ecstuning.com/b-ecs-parts/adjustable-clutch-pedal-stop/018733ecs01~a/)
 - [WCT Pedal Spacer](http://wctperformance.com/wct-performance-pedal-spacer-for-mk7-7-5-golf-gti-r/)
+- [Dieselgeek Super Slider](https://www.dieselgeek.com/products/super-slider-for-mk7?_pos=3&_sid=27b75fc6e&_ss=r)
 
 
 ## To Install
